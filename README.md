@@ -4,24 +4,6 @@ A modern, responsive, and interactive personal portfolio website showcasing my s
 
 ---
 
-# 📸 Project Preview
-
-> Add a screenshot of your portfolio homepage and save it as **preview.png** in the project folder.
-
-```
-Portfolio/
-│
-├── preview.png
-```
-
-Display it in your README using:
-
-```markdown
-![Portfolio Preview](preview.png)
-```
-
----
-
 # ✨ Features
 
 - 🎨 Modern and responsive user interface
