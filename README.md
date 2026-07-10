@@ -1,83 +1,55 @@
-````markdown
-<h1 align="center">🌐 Jessica Bhupathi | Personal Portfolio</h1>
+# 🌐 Personal Portfolio Website
 
-<p align="center">
-  A modern, responsive, and interactive portfolio website showcasing my skills, projects, education, certifications, and achievements.
-</p>
-
-<p align="center">
-  <a href="https://jessicabhupathi.github.io/FUTURE_FS_01/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Website-Visit%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge">
-</p>
+A modern, responsive, and interactive personal portfolio website showcasing my skills, projects, education, certifications, and contact information. This portfolio serves as my professional online presence and was developed as part of my learning journey in Full Stack Web Development.
 
 ---
 
-# 📸 Portfolio Preview
+# 📸 Project Preview
 
-> Save a screenshot of your homepage as **preview.png** in the project folder.
+> Add a screenshot of your portfolio homepage and save it as **preview.png** in the project folder.
 
-<p align="center">
-  <img src="preview.png" width="100%" alt="Portfolio Preview">
-</p>
+```
+Portfolio/
+│
+├── preview.png
+```
 
----
+Display it in your README using:
 
-# 🔗 Live Demo
-
-### 🌍 Visit My Portfolio
-
-**https://jessicabhupathi.github.io/FUTURE_FS_01/**
+```markdown
+![Portfolio Preview](preview.png)
+```
 
 ---
 
 # ✨ Features
 
-✅ Modern UI Design
-
-✅ Fully Responsive Layout
-
-✅ Interactive Hero Section
-
-✅ About Me Section
-
-✅ Skills Showcase
-
-✅ Projects Gallery
-
-✅ Education Timeline
-
-✅ Certifications
-
-✅ Contact Section
-
-✅ Smooth Scrolling
-
-✅ Clean Navigation
-
-✅ Mobile Friendly
-
-✅ Lightweight & Fast
+- 🎨 Modern and responsive user interface
+- 👋 Interactive Hero section
+- 👩 About Me section
+- 💻 Technical Skills showcase
+- 🚀 Featured Projects
+- 🎓 Education details
+- 📜 Certifications section
+- 📞 Contact information
+- 📱 Mobile-friendly design
+- ✨ Smooth scrolling navigation
+- ⚡ Fast loading and lightweight
+- 🌐 Social media links
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Built With
 
-| Technology | Usage |
-|------------|-------|
-| 🌐 HTML5 | Website Structure |
-| 🎨 CSS3 | Styling & Responsive Design |
-| ⚡ JavaScript | Interactivity & Animations |
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ---
 
-# 📂 Project Structure
+# 📁 Project Structure
 
-```text
+```
 Portfolio/
 │
 ├── index.html
@@ -93,9 +65,9 @@ Portfolio/
 
 # 📄 File Description
 
-### 📌 index.html
+## 📌 index.html
 
-Contains:
+Contains the complete structure of the website, including:
 
 - Navigation Bar
 - Hero Section
@@ -109,105 +81,107 @@ Contains:
 
 ---
 
-### 🎨 style.css
+## 🎨 style.css
 
-Responsible for:
+Responsible for the styling and appearance of the website.
 
-- Responsive Design
+Includes:
+
+- Responsive Layout
 - Typography
-- Color Theme
+- Color Scheme
 - Animations
 - Hover Effects
-- Flexbox & Grid
 - Mobile Compatibility
+- Flexbox & Grid Layout
 
 ---
 
-### ⚡ script.js
+## ⚡ script.js
 
-Provides:
+Handles the interactive functionality of the website.
+
+Includes:
 
 - Smooth Scrolling
 - Navigation Menu
 - Scroll Animations
 - Interactive Effects
-- Dynamic User Experience
+- User Experience Enhancements
 
 ---
 
-# 🚀 Getting Started
+# 💻 Live Demo
 
-### Clone the Repository
+🔗 **Portfolio Website**
+
+https://jessicabhupathi.github.io/FUTURE_FS_01/
+
+---
+
+# 🚀 How to Run
+
+### Clone the repository
 
 ```bash
 git clone https://github.com/jessicabhupathi/FUTURE_FS_01.git
 ```
 
-### Open the Folder
+### Open the project folder
 
 ```bash
 cd FUTURE_FS_01
 ```
 
-### Run the Project
+### Run the website
 
-Open **index.html**
+Simply open **index.html**
 
-or
+OR
 
-Open the project in **Visual Studio Code** and launch it using **Live Server**.
+Open the folder in **Visual Studio Code** and launch it using **Live Server**.
 
 ---
 
 # 📱 Responsive Design
 
-Optimized for:
+This portfolio is optimized for:
 
-💻 Desktop
-
-🖥️ Laptop
-
-📱 Tablet
-
-📲 Mobile
+- 💻 Desktop
+- 🖥️ Laptop
+- 📱 Tablet
+- 📲 Mobile
 
 ---
 
-# 🚀 Future Enhancements
+# 🎯 Future Improvements
 
 - 🌙 Dark Mode
-- 📄 Resume Download Button
-- 📧 Working Contact Form
+- 📄 Download Resume Button
+- 📧 Functional Contact Form
 - 📝 Blog Section
 - 🎨 More Animations
 - 🌍 Multi-language Support
-- 🔍 Project Search & Filtering
+- 📊 Project Filters
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 Author
 
 **Jessica Bhupathi**
 
-Aspiring Full Stack Web Developer passionate about creating responsive, accessible, and user-friendly web applications while continuously learning modern technologies.
+Aspiring Full Stack Developer passionate about building responsive, accessible, and user-friendly web applications while continuously learning modern web technologies.
 
 ---
 
 # 🙏 Acknowledgement
 
-This portfolio was developed as part of my Full Stack Web Development learning journey to strengthen my frontend development skills and build a professional online presence.
+This project was created as part of my Full Stack Web Development learning journey and showcases my frontend development skills, creativity, and passion for web design.
 
 ---
 
 # ⭐ Support
 
-If you like this project, please consider giving it a ⭐ on GitHub.
+If you found this project helpful or inspiring, don't forget to ⭐ star the repository on GitHub!
 
-Your support is greatly appreciated!
-
----
-
-<p align="center">
-  <b>Thank you for visiting my portfolio! ❤️</b>
-</p>
-````
+Thank you for visiting my portfolio!
